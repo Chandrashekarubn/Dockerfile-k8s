@@ -1,1 +1,1 @@
-docker build -t ubuntu:1
+FROM ubuntu
